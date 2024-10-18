@@ -6,6 +6,11 @@
 nest-cli.json
 tsconfig.build.json
 tsconfig.json
+/frontendReact/public
+/frontendReact/eslint.config.js
+/frontendReact/README.md
+/frontendReact/vite.config.js
+/frontendReact/node_modules
 
 # Logs
 logs
